@@ -3,4 +3,5 @@ bin/*
 .classpath
 .metadata/
 .project
-.settings/
+.settings/*
+.vscode/*
